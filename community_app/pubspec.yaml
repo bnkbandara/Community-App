@@ -1,0 +1,43 @@
+name: community_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.3.0
+  image_picker: ^1.1.2
+  carousel_slider: ^5.0.0
+  image_cropper: ^9.1.0
+  flutter_lints: ^5.0.0
+  cupertino_icons: ^1.0.8
+  flutter_rating_bar: ^4.0.1
+  file_picker: ^10.1.2
+  stomp_dart_client: ^0.4.4
+  web_socket_channel: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/welcome.png
+    - images/default_profile.png
+    - images/signup.jpg
+    - images/signin.jpg
+    - images/banner1.jpg
+    - images/banner2.jpg
+
