@@ -25,7 +25,9 @@ Prerequisites
 Instructions
 
 cd frontend/
+
 flutter pub get
+
 flutter run
 
 Backend Setup (Spring Boot)
