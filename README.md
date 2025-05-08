@@ -3,11 +3,13 @@ Community Sharing App
 A full-stack mobile application that allows users to buy, sell, or donate used goods such as home-cooked food, books, medicines, and household items within their local community.
 
 Project Structure
+
 Frontend - Flutter mobile app
 Backend - Backend server (e.g., Node.js or PHP)
 Database - SQL file and schema
 
 Features
+
 - User registration and login.
 - Post listings with images.
 - Search & filter items by category.
@@ -21,6 +23,7 @@ Prerequisites
 -Flutter SDK installed: [Install Guide](https://flutter.dev/docs/get-started/install)
 
 Instructions
+
 cd frontend/
 flutter pub get
 flutter run
@@ -56,5 +59,6 @@ Steps
 3.	Ensure the backend application.properties file matches the DB credentials.
 
 Author
+
 •	Naveen Kalanajith 
 •	Final Year Project – University of Plymouth (NSBM Green University)
