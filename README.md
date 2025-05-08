@@ -33,8 +33,11 @@ Backend Setup (Spring Boot)
 Prerequisites
 
 •	Java 17+
+
 •	Maven or Gradle
+
 •	MySQL server running
+
 •	Configure application.properties
 
 Instructions
