@@ -55,6 +55,7 @@ Database Setup (MySQL)
 Prerequisites
 
 •	MySQL or compatible database
+
 •	MySQL Workbench or any DB tool
 
 Steps
