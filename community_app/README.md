@@ -2,9 +2,9 @@
 
 My new Flutter project.
 
-## Getting Started
+## Frontend – Community App
 
-This project is a starting point for a Flutter application.
+This is the Flutter-based mobile frontend for the Community App, designed to allow users to buy, sell, or donate used goods such as books, clothes, electronics, medicine, and food within their local community.
 
 A few resources to get you started if this is your first Flutter project:
 
